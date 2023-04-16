@@ -19,26 +19,7 @@ a.skip:focus{
     padding-bottom: 50px;
     display: inline-block;
     width: 15%;
-}
-
-#red{
-    color: #FF0018;
-}
-#orange{
-    color:#FFA52C;
-}
-#yellow{
-    color:#FFFF41;
-}
-#green{
-    color:#008018;
-}
-#blue{
-    color:#0000F9;
-}
-#purple{
-    color:#86007D;
-}
+    color: pink;}
 #hearts{
     display: flex;
     margin-left: 30px;

@@ -10,9 +10,6 @@ a.skip{
 a.skip:focus{
     left: 100px;
 }
-#books,#politics,#dictionary{
-    background-image: url(../images/Bookbackground.jpg);
-}
 
 #red,#orange,#yellow,#green,#blue,#purple{
     padding-left: 50px;
